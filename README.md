@@ -1,1 +1,1 @@
-#2002.12.24 Kang se yeong
+# 2002.06.20 Choi Eun Seo
